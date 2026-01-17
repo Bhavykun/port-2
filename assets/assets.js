@@ -86,16 +86,15 @@ export const assets = {
 
 export const workData = [
     {
-        title: 'Custom Blog',
-        description: 'Full-Stack application',
+        title: 'Real-Time-Docs',
+        description: 'A Documents application clone with real-time collaboration',
+        bgImage: '/work-6.jpeg',
+        link: 'https://github.com/Bhavykun/Real-Time-Docs'
+    },
+    {    title: 'Custom Blog',
+        description: 'Anonymous blog appliction with CRUD functionality',
         bgImage: '/work-5.png',
         link: 'https://github.com/Bhavykun/customblog'
-    },
-    {
-        title: 'To-do-list',
-        description: 'CRUD functional application',
-        bgImage: '/work-6.jpeg',
-        link: 'https://github.com/Bhavykun/To-do-list'
     },
     {
         title: 'KeepApp',
