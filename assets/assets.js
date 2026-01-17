@@ -88,7 +88,7 @@ export const workData = [
     {
         title: 'Real-Time-Docs',
         description: 'A Documents application clone with real-time collaboration',
-        bgImage: '/work-6.jpeg',
+        bgImage: '/work-6.webp',
         link: 'https://github.com/Bhavykun/Real-Time-Docs'
     },
     {    title: 'Custom Blog',
